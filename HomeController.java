@@ -13,7 +13,7 @@ public class HomeController {
 		return "Bem-vindo ao meu Site!. Temos Disponiveis o "
 				+ "http://localhost:8080/movies/,"
 				+ "http://localhost:8080/person/,"
-				+ "http://localhost:8080/Natural/";
+				+ "http://localhost:8080/Aldeia/";
 		
 	}
 
